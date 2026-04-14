@@ -1,0 +1,52 @@
+body {
+background-color: rgb(255, 255, 255);
+background-image: url(IMG-20260409-WA0012.jpg);
+background-size: cover;
+width: 100%;
+
+}
+.JUDUL{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 20px 0;
+  position: relative;
+  top: 40px;
+}
+
+.JUDUL2{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 20px 0;
+  position: relative;
+  top:10px;
+}
+
+.menu{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -160px;
+}
+
+.home{
+ color: aqua;
+ position: relative;
+ right: 40px;
+}
+
+.photo{
+  color: aqua;
+  position: relative;
+  right: 20px;
+}
+
+.video{
+  color: aqua;
+}
+  
+.black{
+  color: aquamarine;
+}
