@@ -1,0 +1,33 @@
+body {
+background-color: rgb(255, 255, 255);
+background-image: url(IMG-20260414-WA0049.jpg);
+background-size: cover;
+width: 100%;
+}
+.menu{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -160px;
+}
+
+.home{
+ color: aqua;
+ position: relative;
+ right: 40px;
+}
+
+.photo{
+  color: aqua;
+  position: relative;
+  right: 20px;
+}
+
+.video{
+  color: aqua;
+}
+  
+.black{
+  color: aquamarine;
+}
